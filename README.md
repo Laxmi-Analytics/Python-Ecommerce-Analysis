@@ -22,9 +22,15 @@ This project analyzes e-commerce sales data using Python and Pandas. The analysi
 - Products analyzed: Laptop, Mobile, Tablet, Headphones, Keyboard
 
 ## Visualizations
-1. Product-wise Sales
-2. Product-wise Profit
-3. Product-wise Profit Margin
+
+### Product-wise Sales
+![Product-wise Sales](Product_Wise_Sales_Chart.png)
+
+### Product-wise Profit
+![Product-wise Profit](Product_Wise_Profit_Chart.png)
+
+### Product-wise Profit Margin
+![Product-wise Profit Margin](Product_Wise_Profit_Margin_Chart.png)
 
 ## Project Files
 - `sales_analysis.py` — Python analysis code
