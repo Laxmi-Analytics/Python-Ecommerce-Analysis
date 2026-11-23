@@ -67,3 +67,14 @@ The dataset was checked for missing values and duplicate rows before analysis.
 ## Conclusion
 
 This project demonstrates how Python and Pandas can be used to read, clean, analyze, and visualize e-commerce sales data and generate useful business insights.
+
+## Visualizations
+
+### Product-wise Sales
+![Sales Chart](Product_Wise_Sales_Chart.png)
+
+### Product-wise Profit
+![Profit Chart](Product_Wise_Profit_Chart.png)
+
+### Product-wise Profit Margin
+![Profit Margin Chart](Product_Wise_Profit_Margin_Chart.png)
